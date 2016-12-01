@@ -1,16 +1,15 @@
 [user]
-	name = Bill Casarin
-	email = bill@casarin.ca
-	signingkey = 0x415AF4A3
+	name = Yangxu Zhang
+	email = zhangyangxu@gmail.com
 [color]
 	diff = auto
   status = false
 [core]
-	excludesfile = /Users/jb55/.gitignore_global
+	excludesfile =
 [url "https://github.com/"]
   insteadOf = gh:
 [gui]
-	recentrepo = /Users/jb55/src/js/titania
+	recentrepo =
 [difftool "sourcetree"]
 	cmd = opendiff \"$LOCAL\" \"$REMOTE\"
 	path = 
